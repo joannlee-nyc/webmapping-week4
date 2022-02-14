@@ -1,0 +1,42 @@
+#mapContainer {
+  backgroundColor: #ccc;
+  flex-grow: 1;
+  margin: 0;
+  padding: 0;
+}
+
+#legend {
+  border: 1px solid #595A5C;
+  border-radius: 15px;
+  padding: 0px 15px 0px 15px;
+  display: inline-block
+}
+
+html, body {
+  margin: 0;
+  height: 100%;
+  font-family: "Assistant", serif;
+  background-color: #F9FAFC;
+
+}
+
+a:hover {
+  color: #79C244;
+}
+
+.container {
+  display: flex;
+  height: 100%;
+}
+
+.sidebar {
+  width: 400px;
+  height: 100%;
+  padding: 10px 10px 15px 30px;
+}
+
+.sidebar h3 {
+  font-size: 48px;
+  font-weight: 800;
+  color: #79C244;
+}

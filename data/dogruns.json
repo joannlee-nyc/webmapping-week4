@@ -1,0 +1,706 @@
+[
+ {
+   "name": "Fishbridge Garden Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -74.001377,
+   "latitude": 40.70907027,
+   "sqft": 4144
+ },
+ {
+   "name": "Little Bay Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.7927011,
+   "latitude": 40.78788578,
+   "sqft": 11001
+ },
+ {
+   "name": "Canine Court Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.89519993,
+   "latitude": 40.89902036,
+   "sqft": 14036
+ },
+ {
+   "name": "Tompkins Square Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.98117051,
+   "latitude": 40.72647204,
+   "sqft": 12691
+ },
+ {
+   "name": "Dyker Beach Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -74.02091931,
+   "latitude": 40.61775901,
+   "sqft": 52496
+ },
+ {
+   "name": "Sherry Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.89879838,
+   "latitude": 40.74150871,
+   "sqft": 3778
+ },
+ {
+   "name": "Owl's Head Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -74.03484119,
+   "latitude": 40.64038286,
+   "sqft": 17944
+ },
+ {
+   "name": "Maria Hernandez Park Dog Run",
+   "seating": "Yes",
+   "surface": "",
+   "longitude": -73.92298538,
+   "latitude": 40.70370036,
+   "sqft": 4855
+ },
+ {
+   "name": "Madison Square Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.98856343,
+   "latitude": 40.74235102,
+   "sqft": 12798
+ },
+ {
+   "name": "West Thames Street Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -74.01630995,
+   "latitude": 40.70750916,
+   "sqft": 5673
+ },
+ {
+   "name": "Carl Schurz Park Large Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.94398296,
+   "latitude": 40.77423155,
+   "sqft": 4510
+ },
+ {
+   "name": "Fox Playground Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.89811382,
+   "latitude": 40.81500186,
+   "sqft": 2293
+ },
+ {
+   "name": "Riverside Park Dog Run (105th St)",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.97149187,
+   "latitude": 40.80242032,
+   "sqft": 14295
+ },
+ {
+   "name": "Bloomingdale Park Dog Run",
+   "seating": "Yes",
+   "surface": "Natural",
+   "longitude": -74.21139419,
+   "latitude": 40.53333407,
+   "sqft": 4607
+ },
+ {
+   "name": "Soundview Park Dog Run",
+   "seating": "Yes",
+   "surface": "Sand",
+   "longitude": -73.87761076,
+   "latitude": 40.8190006,
+   "sqft": 7449
+ },
+ {
+   "name": "Riverside Park Dog Run (72nd St)",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.98657115,
+   "latitude": 40.78119686,
+   "sqft": 12626
+ },
+ {
+   "name": "Cooper Park Large Dog Run",
+   "seating": "Yes",
+   "surface": "Sand",
+   "longitude": -73.93603449,
+   "latitude": 40.71540415,
+   "sqft": 3401
+ },
+ {
+   "name": "Highbridge Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.92485634,
+   "latitude": 40.85582854,
+   "sqft": 8353
+ },
+ {
+   "name": "North End Dog Run",
+   "seating": "Yes",
+   "surface": "",
+   "longitude": -74.01467691,
+   "latitude": 40.7167237,
+   "sqft": 7158
+ },
+ {
+   "name": "North End Dog Run",
+   "seating": "Yes",
+   "surface": "",
+   "longitude": -74.01503251,
+   "latitude": 40.71627196,
+   "sqft": 7158
+ },
+ {
+   "name": "Veteran's Grove Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.87756566,
+   "latitude": 40.74251702,
+   "sqft": 1421
+ },
+ {
+   "name": "Manhattan Beach Dog Run (Oriental Boulevard)",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.94175847,
+   "latitude": 40.57783097,
+   "sqft": 25295
+ },
+ {
+   "name": "Frank S. Hackett Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.90559994,
+   "latitude": 40.90140075,
+   "sqft": 1496
+ },
+ {
+   "name": "Washington Square Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.99844291,
+   "latitude": 40.73066196,
+   "sqft": 8988
+ },
+ {
+   "name": "DeWitt Clinton Park Large Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.99411127,
+   "latitude": 40.76749162,
+   "sqft": 8999
+ },
+ {
+   "name": "Stuyvesant Square Dog Park",
+   "seating": "Yes",
+   "surface": "Concrete",
+   "longitude": -73.98377498,
+   "latitude": 40.73315768,
+   "sqft": 5296
+ },
+ {
+   "name": "Corlears Hook Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.97938724,
+   "latitude": 40.71179917,
+   "sqft": 5791
+ },
+ {
+   "name": "Conference House Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -74.24991843,
+   "latitude": 40.50028128,
+   "sqft": 9967
+ },
+ {
+   "name": "Murray Playground Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.94821887,
+   "latitude": 40.74688616,
+   "sqft": 4930
+ },
+ {
+   "name": "Dog Bone Run",
+   "seating": "",
+   "surface": "Concrete",
+   "longitude": -73.88284845,
+   "latitude": 40.88374366,
+   "sqft": 3100
+ },
+ {
+   "name": "East River Esplanade Waterfront Dog Run",
+   "seating": "Yes",
+   "surface": "Concrete",
+   "longitude": -74.0056205,
+   "latitude": 40.70445634,
+   "sqft": 6383
+ },
+ {
+   "name": "Pier 84 Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -74.00040157,
+   "latitude": 40.76347867,
+   "sqft": 3261
+ },
+ {
+   "name": "St. Nicholas Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.94885944,
+   "latitude": 40.81795495,
+   "sqft": 24779
+ },
+ {
+   "name": "Riverside Park South Dog Run",
+   "seating": "Yes",
+   "surface": "Natural",
+   "longitude": -73.98737854,
+   "latitude": 40.78124168,
+   "sqft": 15339
+ },
+ {
+   "name": "Sirius Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -74.0169271,
+   "latitude": 40.71200719,
+   "sqft": 2594
+ },
+ {
+   "name": "J. Hood Wright Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.94219445,
+   "latitude": 40.84659962,
+   "sqft": 4672
+ },
+ {
+   "name": "Forest Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.86042209,
+   "latitude": 40.69674494,
+   "sqft": 12777
+ },
+ {
+   "name": "Tribeca Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -74.01208583,
+   "latitude": 40.71619353,
+   "sqft": 5436
+ },
+ {
+   "name": "Dimattina Park Dog Run - South",
+   "seating": "",
+   "surface": "",
+   "longitude": -74.00292802,
+   "latitude": 40.67979015,
+   "sqft": 6921
+ },
+ {
+   "name": "Seton Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.9157808,
+   "latitude": 40.88657809,
+   "sqft": 10064
+ },
+ {
+   "name": "Morningside Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.95919276,
+   "latitude": 40.80444482,
+   "sqft": 20785
+ },
+ {
+   "name": "Pelham Bay Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.82101607,
+   "latitude": 40.85054756,
+   "sqft": 9548
+ },
+ {
+   "name": "McGolrick Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.9435636,
+   "latitude": 40.72329429,
+   "sqft": 8127
+ },
+ {
+   "name": "Rockaway Freeway Dog Park",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.80878444,
+   "latitude": 40.59116107,
+   "sqft": 88900
+ },
+ {
+   "name": "Lou Lodati Dog Park",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.92168673,
+   "latitude": 40.74729537,
+   "sqft": 4133
+ },
+ {
+   "name": "DiMattina Park Dog Run - North",
+   "seating": "",
+   "surface": "",
+   "longitude": -74.00224873,
+   "latitude": 40.6809039,
+   "sqft": 5317
+ },
+ {
+   "name": "Bellevue South Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.97843086,
+   "latitude": 40.73983128,
+   "sqft": 3229
+ },
+ {
+   "name": "Sternberg Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.94673685,
+   "latitude": 40.70616648,
+   "sqft": 4036
+ },
+ {
+   "name": "Thomas Jefferson Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.93504409,
+   "latitude": 40.79225732,
+   "sqft": 4725
+ },
+ {
+   "name": "Carl Schurz Park Small Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.94388758,
+   "latitude": 40.77393308,
+   "sqft": 3014
+ },
+ {
+   "name": "Riverside Park Dog Run (87th St)",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.98060486,
+   "latitude": 40.79030559,
+   "sqft": 22368
+ },
+ {
+   "name": "Herbert Von King Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.94786191,
+   "latitude": 40.68981141,
+   "sqft": 7944
+ },
+ {
+   "name": "Underbridge Playground Dog Run",
+   "seating": "Yes",
+   "surface": "",
+   "longitude": -73.84521973,
+   "latitude": 40.73386291,
+   "sqft": 20645
+ },
+ {
+   "name": "Pier 6 Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -74.00003549,
+   "latitude": 40.69272727,
+   "sqft": 4532
+ },
+ {
+   "name": "Fort Independence Playground Dog Run",
+   "seating": "Yes",
+   "surface": "",
+   "longitude": -73.89460898,
+   "latitude": 40.88167085,
+   "sqft": 28137
+ },
+ {
+   "name": "Union Square Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.99096976,
+   "latitude": 40.73556204,
+   "sqft": 3466
+ },
+ {
+   "name": "DeWitt Clinton Park Small Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.99443558,
+   "latitude": 40.76760425,
+   "sqft": 2702
+ },
+ {
+   "name": "Hillside Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.99443579,
+   "latitude": 40.70146558,
+   "sqft": 41355
+ },
+ {
+   "name": "Greenwood Playground Dog Run",
+   "seating": "",
+   "surface": "Natural",
+   "longitude": -73.97637907,
+   "latitude": 40.64938725,
+   "sqft": 3326
+ },
+ {
+   "name": "Windmuller Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.90841422,
+   "latitude": 40.74596853,
+   "sqft": 4101
+ },
+ {
+   "name": "Silver Lake Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -74.09275319,
+   "latitude": 40.62646044,
+   "sqft": 14887
+ },
+ {
+   "name": "Ewen Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.91005646,
+   "latitude": 40.88224111,
+   "sqft": 4984
+ },
+ {
+   "name": "Riverside Park Dog Run (W. 142nd St.)",
+   "seating": "Yes",
+   "surface": "Natural",
+   "longitude": -73.95420439,
+   "latitude": 40.82530182,
+   "sqft": 5016
+ },
+ {
+   "name": "Washington Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.98582165,
+   "latitude": 40.67288627,
+   "sqft": 4876
+ },
+ {
+   "name": "Marcus Garvey Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.94312137,
+   "latitude": 40.80293357,
+   "sqft": 9935
+ },
+ {
+   "name": "Williamsbridge Oval Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.87601622,
+   "latitude": 40.87799224,
+   "sqft": 4758
+ },
+ {
+   "name": "Oneida Run",
+   "seating": "",
+   "surface": "Natural",
+   "longitude": -73.87351789,
+   "latitude": 40.89940887,
+   "sqft": 8428
+ },
+ {
+   "name": "Coleman Oval Park Dog Run",
+   "seating": "Yes",
+   "surface": "",
+   "longitude": -73.99330279,
+   "latitude": 40.71105301,
+   "sqft": 7007
+ },
+ {
+   "name": "Robert Moses Playground Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.96901957,
+   "latitude": 40.74827568,
+   "sqft": 4370
+ },
+ {
+   "name": "Adam Yauch Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.99910342,
+   "latitude": 40.69238016,
+   "sqft": 2336
+ },
+ {
+   "name": "Tribeca Dog Park",
+   "seating": "",
+   "surface": "",
+   "longitude": -74.01233514,
+   "latitude": 40.72153556,
+   "sqft": 4844
+ },
+ {
+   "name": "Fort Tryon Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.93198529,
+   "latitude": 40.86169216,
+   "sqft": 28514
+ },
+ {
+   "name": "Homer's Dog Run",
+   "seating": "",
+   "surface": "Natural",
+   "longitude": -73.92173721,
+   "latitude": 40.87115087,
+   "sqft": 14671
+ },
+ {
+   "name": "Franz Sigel Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.9259181,
+   "latitude": 40.82288225,
+   "sqft": 4532
+ },
+ {
+   "name": "The Rocky Run",
+   "seating": "Yes",
+   "surface": "Natural",
+   "longitude": -73.94526042,
+   "latitude": 40.84096707,
+   "sqft": 19289
+ },
+ {
+   "name": "Wolfe's Pond Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -74.18513404,
+   "latitude": 40.51986375,
+   "sqft": 7147
+ },
+ {
+   "name": "Peter Detmold Park Dog Run",
+   "seating": "Yes",
+   "surface": "",
+   "longitude": -73.96398417,
+   "latitude": 40.75321865,
+   "sqft": 21679
+ },
+ {
+   "name": "Brooklyn Bridge Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.98910761,
+   "latitude": 40.7043549,
+   "sqft": 7858
+ },
+ {
+   "name": "McCarren Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.95289619,
+   "latitude": 40.72006712,
+   "sqft": 7072
+ },
+ {
+   "name": "Robin Kovary Run for Small Dogs",
+   "seating": "Yes",
+   "surface": "Natural",
+   "longitude": -73.99752666,
+   "latitude": 40.7301855,
+   "sqft": 2282
+ },
+ {
+   "name": "Cooper Park Small Dog Run",
+   "seating": "Yes",
+   "surface": "Sand",
+   "longitude": -73.93621659,
+   "latitude": 40.71538488,
+   "sqft": 2368
+ },
+ {
+   "name": "Theodore Roosevelt Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.97380159,
+   "latitude": 40.78215351,
+   "sqft": 11808
+ },
+ {
+   "name": "Ida Court Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -74.18736888,
+   "latitude": 40.53819606,
+   "sqft": 5274
+ },
+ {
+   "name": "Hunters Point South Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.96019376,
+   "latitude": 40.74333592,
+   "sqft": 6049
+ },
+ {
+   "name": "Overlook Dog Park / The Barking Lot",
+   "seating": "",
+   "surface": "Natural",
+   "longitude": -73.83680925,
+   "latitude": 40.71034087,
+   "sqft": 43045
+ },
+ {
+   "name": "Cunningham Park Dog Run",
+   "seating": "",
+   "surface": "",
+   "longitude": -73.77557119,
+   "latitude": 40.7266396,
+   "sqft": 8030
+ },
+ {
+   "name": "St. Mary's Park Dog Run",
+   "seating": "No",
+   "surface": "Natural",
+   "longitude": -73.91217327,
+   "latitude": 40.80965459,
+   "sqft": 5134
+ },
+ {
+   "name": "Andrew Haswell Green Dog Run",
+   "seating": "Yes",
+   "surface": "",
+   "longitude": -73.95683797,
+   "latitude": 40.76023093,
+   "sqft": 6254
+ }
+]
