@@ -9,7 +9,7 @@
   border: 1px solid #595A5C;
   border-radius: 15px;
   padding: 0px 15px 0px 15px;
-  display: inline-block
+  display: inline-block;
 }
 
 html, body {
@@ -17,6 +17,7 @@ html, body {
   height: 100%;
   font-family: "Assistant", serif;
   background-color: #F9FAFC;
+  color: #595A5C;
 
 }
 
@@ -33,6 +34,7 @@ a:hover {
   width: 400px;
   height: 100%;
   padding: 10px 10px 15px 30px;
+  box-sizing: border-box;
 }
 
 .sidebar h3 {

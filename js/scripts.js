@@ -13,70 +13,42 @@ $.getJSON('data/dogruns.json',function(dogRuns){
     center: nycCenter, // starting position as [lng, lat]
     zoom: 9
   });
-/*
-  var popup = new mapboxgl.Popup({
-    offset: 40,
-  })
-    .setHTML('<h3>Prospect Park</h3>');
 
-  //add a marker for Prospect Park
-  var marker = new mapboxgl.Marker()
-    .setLngLat(prospectPark)
-    .setPopup(popup)
-    .addTo(map);
+//add popups for dog runs
 
-  var pointsOfInterest = [
-    {
-      lngLat: [-73.960218,40.700292],
-      popupHtml:'Cooper Park',
-    },
-    {
-      lngLat: [-73.976698,40.704457],
-      popupHtml:'McCarren Park',
-    },
-    {
-      lngLat: [-74.016781,40.675756],
-      popupHtml:'Fort Green Park',
-    }
-  ]
-
-  pointsOfInterest.forEach(function(pointOfInterest){
-    var popup = new mapboxgl.Popup({offset: 40})
-      .setHTML(`
-        <h3>${pointOfInterest.popupHtml}</h3>
-        `);
-
-
-    new mapboxgl.Marker()
-      .setLngLat(pointOfInterest.lngLat)
-      .setPopup(popup)
-      .addTo(map);
-  })
-*/
-//add markers for dog runs
 dogRuns.forEach(function(dogRun){
+    var popupHTML = `
+    <h3>${dogRun.name}</h3>
+    <p><b>Size (sq ft.):</b> ${dogRun.sqft}
+    `
+    if (dogRun.surface) {
+      popupHTML = `
+        ${popupHTML} <br/>
+        <b>Surface:</b> ${dogRun.surface}
+      `
+    }
+
+    if (dogRun.seating) {
+      popupHTML = `
+        ${popupHTML} <br/>
+        <b>Seating:</b> ${dogRun.seating}</p>
+      `
+    }
     var popup = new mapboxgl.Popup({offset: 40})
-      .setHTML(`
-        <h3>${dogRun.name}</h3>
-        <p><b>Size (sq ft.):</b> ${dogRun.sqft}<br>
-            <b>Surface:</b> ${dogRun.surface}<br>
-            <b>Seating:</b> ${dogRun.seating}</p>
-        `);
+    .setHTML(popupHTML);
 
-    //
+    // Set all markers to medium green
     var color = '#7EB851'
-
+    // Set all markers for small dog runs to light green
     if (dogRun.sqft < 3000){
       color = '#C7DEB5'
     }
-
+    // Set all markers for large dog runs to dark green
     if (dogRun.sqft > 10000){
       color = '#45672B'
     }
 
-
-
-
+//add markers for dog runs
     new mapboxgl.Marker({
       color: color
     })
