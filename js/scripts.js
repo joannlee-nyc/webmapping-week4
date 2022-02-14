@@ -19,7 +19,7 @@ $.getJSON('data/dogruns.json',function(dogRuns){
 dogRuns.forEach(function(dogRun){
     var popupHTML = `
     <h3>${dogRun.name}</h3>
-    <p><b>Size (sq ft.):</b> ${dogRun.sqft}
+    <p><b>Size (sq. ft):</b> ${dogRun.sqft}
     `
     if (dogRun.surface) {
       popupHTML = `
