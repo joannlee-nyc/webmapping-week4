@@ -1,5 +1,5 @@
 
-$.getJSON('/data/dogruns.json',function(dogRuns){
+$.getJSON('data/dogruns.json',function(dogRuns){
   console.log(dogRuns)
 
   mapboxgl.accessToken = 'pk.eyJ1Ijoiam9hbm5sZWUiLCJhIjoiY2t6aG5wZDJqMGlyZDJwcWhta2pldWNlYyJ9.SF7LAInpjGYwkH-_Wo_4dA';
