@@ -11,7 +11,7 @@ $.getJSON('data/dogruns.json',function(dogRuns){
     container: 'mapContainer', // HTML container id
     style: 'mapbox://styles/mapbox/light-v9', // style URL
     center: nycCenter, // starting position as [lng, lat]
-    zoom: 9
+    zoom: 10
   });
 
 //add popups for dog runs
