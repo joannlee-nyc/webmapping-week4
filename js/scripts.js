@@ -1,4 +1,3 @@
-
 $.getJSON('data/dogruns.json',function(dogRuns){
   console.log(dogRuns)
 
